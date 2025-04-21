@@ -31,9 +31,9 @@ AI-Emotion-Dashboard/
 
 ## 🔗 Access the Project
 
-- 🔍 [View the Google Colab Notebook (Read-Only)](PASTE_YOUR_COLAB_LINK_HERE)
-- 📊 [View the Interactive Looker Studio Dashboard](PASTE_YOUR_LOOKER_LINK_HERE)
-- 📁 [Download the Dataset (CSV)](./data/ai_emotions.csv)
+- 🔍 [View the Google Colab Notebook (Read-Only)](https://colab.research.google.com/drive/1vxXia4yfdKYs46apDLdElWXf8TJeIfzQ?usp=sharing)
+- 📊 [View the Interactive Looker Studio Dashboard](https://lookerstudio.google.com/reporting/3244dd45-633c-4195-ba03-9165a6b962ab)
+- 📁 [Download the Dataset (CSV)](https://docs.google.com/spreadsheets/d/17WQDTE4f-z5PJ3nECy7steEaN0Kk2Dvc2X7N1NYW7QQ/edit?usp=drive_link)
 
 ---
 
