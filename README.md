@@ -57,7 +57,7 @@ AI-Emotion-Dashboard/
 ## 🙌 Credits
 
 Project built and documented by Yasmin Sebei , Nour Benbrahim 
-As part of a student interactive project to showcase **Big Data + AI + Visualization**
+As part of a student interactive project to showcase **Big Data + Visualization**
 
 ---
 
